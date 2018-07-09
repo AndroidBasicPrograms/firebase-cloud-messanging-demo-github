@@ -23,7 +23,7 @@ import java.util.Scanner;
 
 import static com.example.fcm.R.id.txt;
 public class MainActivity extends AppCompatActivity {
-	private static final String AUTH_KEY = "key=AIzaSyBRgJO5EiBBzz5V__gsZeh4eg4MTP-pRi0";
+	private static final String AUTH_KEY = "key=AIzaSyBRgJO5EiBBzz5V__gsZeh4eg4MTP-pRi0";//server key of app which is located from firebase console
 	private TextView mTextView;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
